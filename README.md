@@ -1,2 +1,5 @@
-# sol-docs
-Documentation for SOL
+# Documentation for SOL
+
+## Páginas
+
+- [Gestor](gestor.md)

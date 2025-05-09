@@ -42,20 +42,18 @@ O dashboard apresenta uma visão geral do sistema com:
    - Utilize o ícone 🗑️ com cautela
    - Confirmação necessária para exclusão
 
-## 📝 Controle de PDM
+## 📝 Visualização de catálogo
 
-### Cadastro de PDM
-1. Clique em "Novo PDM"
-2. Preencha os campos obrigatórios:
-   - Nome
-   - Descrição
-   - Data de início
-   - Data de término
+No item de menu “Itens”, há quatro subitens:
 
-### Gerenciamento de PDM
-- Edite informações existentes
-- Acompanhe status
-- Gerencie documentos vinculados
+- Item
+- PDM
+- Classes
+- Grupo
+
+Ao clicar em cada um deles, é possível visualizar a lista de elementos
+daquele tipo cadastrados no sistema. No caso de PDMs e Itens, é possível
+visualizar mais detalhes selecionando o ícone 👁️.
 
 ## 📈 Relatórios
 
@@ -77,8 +75,7 @@ O dashboard apresenta uma visão geral do sistema com:
    - Valores acumulados
 
 ### Exportação
-- Todos os relatórios podem ser exportados em Excel
-- Use filtros para personalizar dados
+- Todos os relatórios podem ser exportados em CSV
 - Salve relatórios frequentes
 
 ## ⚙️ Configurações do Perfil
@@ -99,6 +96,8 @@ O dashboard apresenta uma visão geral do sistema com:
 ## 🔔 Dicas Importantes
 
 1. **Segurança**
+   - Use um software especializado para gestão de senhas
+   - Use senhas únicas
    - Troque sua senha periodicamente
    - Nunca compartilhe suas credenciais
    - Faça logout ao sair
@@ -106,7 +105,6 @@ O dashboard apresenta uma visão geral do sistema com:
 2. **Boas Práticas**
    - Mantenha registros atualizados
    - Verifique informações antes de salvar
-   - Use filtros para otimizar buscas
 
 3. **Suporte**
    - Em caso de dúvidas, contate o suporte
