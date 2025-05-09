@@ -7,6 +7,7 @@
 4. [Controle de PDM](#catalogos)
 5. [Relatórios](#relatórios)
 6. [Perfil](#perfil)
+7. [Licitações](#licitacoes)
 
 ## 🔑 Acesso ao Sistema
 <a id="acesso-ao-sistema"></a>
@@ -86,6 +87,17 @@ visualizar mais detalhes selecionando o ícone 👁️.
 - Idioma do sistema
 - Notificações
 - Visualizações padrão
+
+## Licitações
+<a id="licitacoes"></a>
+
+### Visualização de licitações
+
+No item do menu “Licitações”, selecionando o subitem “Visualização” é possível ver uma lista das licitações com seus status.
+
+### Revisão de licitações
+
+Selecionando o subitem “Revisão”, é possível ver todas as licitações que aguardam revisão. Ao selecionar o botão “Detalhes”, caso você tenha a autoridade para aceita-la ou rejeita-la, verá botões com essas palavras que te permitem mandar a licitação para publicação, ou de volta para o comprador para revisão, respectivamente.
 
 ## 🔔 Dicas Importantes
 
