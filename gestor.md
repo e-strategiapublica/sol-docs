@@ -3,11 +3,13 @@
 ## 📋 Índice
 1. [Acesso ao Sistema](#acesso-ao-sistema)
 2. [Dashboard](#dashboard)
-3. [Gerenciamento de Projetos](#gerenciamento-de-projetos)
-4. [Controle de PDM](#controle-de-pdm)
+3. [Gerenciamento de Projetos](#projetos)
+4. [Controle de PDM](#catalogos)
 5. [Relatórios](#relatórios)
+6. [Perfil](#perfil)
 
 ## 🔑 Acesso ao Sistema
+<a id="acesso-ao-sistema"></a>
 
 ### Primeiro Acesso
 1. Utilize suas credenciais fornecidas pelo administrador
@@ -15,6 +17,7 @@
 3. Mantenha seus dados sempre atualizados através do menu "Perfil"
 
 ## 📊 Dashboard
+<a id="dashboard"></a>
 
 O dashboard apresenta uma visão geral do sistema com:
 - Total de licitações ativas
@@ -23,6 +26,7 @@ O dashboard apresenta uma visão geral do sistema com:
 - Gráficos de desempenho
 
 ## 👥 Gerenciamento de Projetos
+<a id="projetos"></a>
 
 ### Listagem de Projetos
 - Acesse através do menu "Controle de Project Manager"
@@ -43,6 +47,7 @@ O dashboard apresenta uma visão geral do sistema com:
    - Confirmação necessária para exclusão
 
 ## 📝 Visualização de catálogo
+<a id="catalogos"></a>
 
 No item de menu “Itens”, há quatro subitens:
 
@@ -56,6 +61,7 @@ daquele tipo cadastrados no sistema. No caso de PDMs e Itens, é possível
 visualizar mais detalhes selecionando o ícone 👁️.
 
 ## 📈 Relatórios
+<a id="relatorios"></a>
 
 ### Tipos de Relatórios Disponíveis
 1. **Relatórios de Contratos**
@@ -79,6 +85,7 @@ visualizar mais detalhes selecionando o ícone 👁️.
 - Salve relatórios frequentes
 
 ## ⚙️ Configurações do Perfil
+<a id="perfil"></a>
 
 ### Atualização de Dados
 1. Acesse "Meu Perfil"
