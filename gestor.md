@@ -25,26 +25,13 @@ O dashboard apresenta uma visão geral do sistema com:
 - Total de fornecedores
 - Gráficos de desempenho
 
-## 👥 Gerenciamento de Projetos
+## 👥 Visualização de Projetos
 <a id="projetos"></a>
 
 ### Listagem de Projetos
 - Acesse através do menu "Controle de Project Manager"
 - Use a barra de pesquisa para filtrar projetos
 - Visualize status e informações básicas
-
-### Ações Disponíveis
-1. **Visualizar Projeto**
-   - Clique no ícone 👁️ para ver detalhes
-   - Acesse histórico e documentação
-
-2. **Editar Projeto**
-   - Use o ícone ✏️ para modificar dados
-   - Atualize informações conforme necessário
-
-3. **Excluir Projeto**
-   - Utilize o ícone 🗑️ com cautela
-   - Confirmação necessária para exclusão
 
 ## 📝 Visualização de catálogo
 <a id="catalogos"></a>
